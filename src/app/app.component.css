@@ -1,0 +1,19 @@
+.container {
+  border: none;
+  width: 350px;
+  padding: 30px;
+  position: absolute;
+  height: 450px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgb(247, 171, 171);
+  border-radius: 15px;
+  box-shadow: 2px 2px 6px rgb(97, 92, 92);
+  font-family: 'Andy', sans-serif;
+  color:rgb(51, 2, 73)
+}
+
+.button {
+  background-color: rgb(51, 2, 73) ;
+}
